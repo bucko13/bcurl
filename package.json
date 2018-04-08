@@ -24,7 +24,7 @@
     "webpack": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "brq": "~0.0.2",
+    "brq": "git+https://github.com/bcoin-org/brq.git",
     "bsock": "~0.0.2"
   },
   "devDependencies": {
